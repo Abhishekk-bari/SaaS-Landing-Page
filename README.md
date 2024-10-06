@@ -12,6 +12,7 @@ pnpm dev
 # or
 bun dev
 ```
+-->  Need to Install - Framer-Motion, Next/image, Latest NextJs version   <--
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
