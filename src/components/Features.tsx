@@ -29,7 +29,7 @@ export const Features = () => {
           <p className="text-center mt-5 text-xl text-white/70">
             Enjoy customizable lists, team work tools, and smart tracking all in
             one place. Set tasks, get6 reminder, and see your progress
-          </p>{" "}
+          </p>
         </div>
         <div className="mt-16 flex flex-col sm:flex-row gap-4 ">
           {features.map(({ title, description }) => (
